@@ -1,0 +1,10 @@
+{
+    "name":{
+        "message": "SBAM Hide Sold Out",
+        "description": "extension name"
+    },
+    "description":{
+        "message": "It's a simple browser extension automatically hides all sold-out products from the SBÄM online store, ensuring that you only see items that are currently available for purchase.",
+        "description": "extension description"
+    }
+}
